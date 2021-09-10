@@ -1,0 +1,14 @@
+{
+  "chromeWebSecurity": false,
+    "env": {
+      "Link": "https://staging-stack-crp-5084.riskprofiler.io/",
+      "Ethicalusername": "admin@ethicalhat.com",
+      "Ethicalpassword": "*9GM@HYkh34qDnFHFeS@",
+      "Cfinsusername" : "admin@cfins.com",
+      "Cfinspassword" : "u3S*f7zskf6vzz8e$TKU",
+      "Pwcusername" : "admin@pwc.com",
+      "Pwcpassword" : "Lu$CPqC9ciK@P"
+      
+}
+
+}
